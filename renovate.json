@@ -3,5 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "commitMessageExtra": "some extra"
+  "commitMessageSuffix": "some extra"
 }
